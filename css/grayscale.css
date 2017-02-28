@@ -70,6 +70,9 @@ a:focus {
   outline: none;
 }
 .navbar-custom .navbar-brand {
+  display: block;
+  width:500px;
+  background: url("../img/glooper_labs.png") no-repeat left top;
   font-weight: 700;
 }
 .navbar-custom .navbar-brand:focus {
